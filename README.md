@@ -60,4 +60,4 @@ El proyecto incluye un script SQL para la generación de la estructura de base d
 Requiere **Java JDK 17+** y un servidor MySQL activo.
 
 ### 📬 Contacto
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/TU-USUARIO)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eddaann)
